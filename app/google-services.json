@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332977477033",
+    "firebase_url": "https://unscript-a222c.firebaseio.com",
+    "project_id": "unscript-a222c",
+    "storage_bucket": "unscript-a222c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332977477033:android:c633210b405899b3",
+        "android_client_info": {
+          "package_name": "com.venkat.ui_design_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332977477033-16ldaebincm5q763l2ltnqit9i62lj2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX748cAbp3PrN242cfJzXVNNWqXHJz_i8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
